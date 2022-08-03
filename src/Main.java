@@ -62,7 +62,7 @@ System.out.println("Общая сумма у Маши в месяц" + totalSala
 int totalSalaryDen=Denis+denissalary;
 System.out.println("Общая сумма у Дениса в месяц" + totalSalaryDen);
 int totalSalaryKri=Kristina+kristinasalary;
-System.out.println("Общая сумма у Кристины в месяц" +totalSalaryKri);
+System.out.println("Общая сумма у Кристины  месяц" +totalSalaryKri);
 
 int annualIncomeMashi = Masha *12;
 System.out.println("Годовой доход Маши до повышения" +annualIncomeMashi);
